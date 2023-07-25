@@ -1,0 +1,7 @@
+[nosov]
+192.168.1.105 ansible_ssh_user=rembo2 ansible_sudo_pass=NIM15
+
+
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
